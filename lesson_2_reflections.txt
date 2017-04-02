@@ -5,4 +5,9 @@ Ans: A repository is created with initial files as the contents of the repositor
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Ans: ???
+Ans: Well staging area is a copy of all the files with the most recent commits, untill all the commits are made. So working directory is like my presently updated files, staging area represnt files of the most recent commits.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Ans: Staging area can save all the files that are required to be modified after the one complete logical change.
