@@ -11,3 +11,7 @@ Ans: Well staging area is a copy of all the files with the most recent commits, 
 How can you use the staging area to make sure you have one commit per logical change?
 
 Ans: Staging area can save all the files that are required to be modified after the one complete logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Ans: When we need to make experimental changes. 
